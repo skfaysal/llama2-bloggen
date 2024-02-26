@@ -1,0 +1,4 @@
+/.vscode
+/llama2-venv
+models/
+*.csv
